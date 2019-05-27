@@ -2,7 +2,7 @@
   "name": "compool-controller",
   "version": "1.0.0",
   "description": "Control a Compool Cp3800 over RS-485",
-  "main": "index.js",
+  "main": "lib",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
